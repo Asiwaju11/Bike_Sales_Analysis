@@ -15,29 +15,32 @@
 ##  Analysis of Bike Sales relative to buyer's socio economic status
 
 ###  Project Overview
-
+---
 Overview This data analysis project aims to provide insights into the socio-economic status of  Biker buyers  across The Pacific, Europe and North America . By analyzing various aspects of the  data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding for bike retail companies and also understand how socio-economics determines or affects bike purchase across different groups
 
 ![Dash2](https://github.com/user-attachments/assets/09fe2fd4-2f08-4207-a4e7-abae946ae27f)
 
 
 ###  Data Source
+---
   The primary dataset used for this analysis is the "bikes_buyer.csv" file, containing detailed information about the the buyers of bikes across the three regions listed above
 
 ###  Tools
+---
 
 -  Excel  - Data Cleaning, Analysis and Visualization
     -  [Download here](www.microsoft.com)
  
 
 ###  Data Cleaning & Preparation
+---
 In the initial data preparation phase, I performed the following tasks: 
 1.  Data loading and inspection.
 2.  Handling missing values.
 3.  Data cleaning and formatting
 
 ###  Exploratory Data Analysis (EDA)
-
+---
 EDA involved exploring the sales data to answer key questions, such as :
 
 -   What  gender of the average customer?
@@ -48,6 +51,7 @@ EDA involved exploring the sales data to answer key questions, such as :
 -   Which region has the most customers
 
 ###  Data Analysis
+---
 ```Excel functions
 Replace Ms and Fs with Male and Female , Using Ctrl+H
 Replace Ms  and Fs  with Married and Single using Ctrl+H
@@ -56,6 +60,7 @@ Create age brackets using "If" "=IF(L2>54,"Old",IF(L2>=31,"Middle age",IF(L2<31,
 
 
 ###  Results / Findings
+---
 
 The analysis results are summarized as follows:
 1.  There are more male buyers of bikes
@@ -67,11 +72,13 @@ The analysis results are summarized as follows:
 
 
 ###  Limitations
+---
 
 The data is solely focused on the customers and didn't provide information about the sales company(ies) it is therefore hard to correlate the analysis directly with the company's  revenue
 
 
 ###  References 
+---
 -  Alex the Analyst
 -  Excel for data analysis 
 
