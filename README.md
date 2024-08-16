@@ -18,6 +18,9 @@
 
 Overview This data analysis project aims to provide insights into the socio-economic status of  Biker buyers  across The Pacific, Europe and North America . By analyzing various aspects of the  data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding for bike retail companies and also understand how socio-economics determines or affects bike purchase across different groups
 
+![Dash2](https://github.com/user-attachments/assets/09fe2fd4-2f08-4207-a4e7-abae946ae27f)
+
+
 ###  Data Source
   The primary dataset used for this analysis is the "bikes_buyer.csv" file, containing detailed information about the the buyers of bikes across the three regions listed above
 
