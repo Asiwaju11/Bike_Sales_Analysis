@@ -43,7 +43,7 @@ In the initial data preparation phase, I performed the following tasks:
 ---
 EDA involved exploring the sales data to answer key questions, such as :
 
--   What  gender of the average customer?
+-   What gender buys the most bike?
 -   What is the marital status of an average customer
 -   What is the average income per purchase of a customer?
 -   What is the customer's age bracket?
