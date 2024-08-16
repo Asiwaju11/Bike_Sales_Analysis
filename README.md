@@ -74,3 +74,5 @@ The data is solely focused on the customers and didn't provide information about
 ###  References 
 -  Alex the Analyst
 -  Excel for data analysis 
+
+📊
