@@ -67,7 +67,7 @@ The analysis results are summarized as follows:
 2.  On average , there are more married customers than singles
 3.  The average monthly income of buyers varies across the three regions, but North American buyers earn slightly more than others at $56k
 4.  There are more married Middle aged customers who are married than other demographics
-5.  An average cuaatomer is either with a bachelor's or partially educated froma college
+5.  An average customer is either with a bachelor's degree or partially college educated
 6.  North America is the residence of most customers
 
 
